@@ -1,2 +1,3 @@
 # Power-BI-Dashboard
-ecommerce sells data into powerBI dashboard
+ecommerce sells data into powerBI dashboard.
+
