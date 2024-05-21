@@ -22,7 +22,7 @@ Advanced Analytics: Leverage advanced statistical techniques and machine learnin
 Customizable Reports: Tailor reports to your specific requirements and preferences for seamless integration into your workflow.
 Collaboration Tools: Foster collaboration and knowledge sharing among team members through built-in collaboration tools and version control.
 Contributions:
-We welcome contributions from data enthusiasts, analysts, and developers alike. Whether it's adding new datasets, enhancing existing reports, or optimizing code, your contributions are invaluable in enriching our repository and fostering a vibrant community of data-driven professionals.
+We welcome contributions from data enthusiasts, analysts, and developers alike. Whether it's adding new datasets, enhancing existing reports, or optimizing code, your contributions are invaluable in enriching our repository and fostering a vibrant community of data-driven professionals._
 ## Get Started:
 Ready to embark on your analytics journey? Clone our repository, explore our resources, and unlock the transformative power of data-driven decision-making. Whether you're a novice or an expert, our repository offers something for everyone to elevate their analytical capabilities and drive meaningful outcomes.
 
